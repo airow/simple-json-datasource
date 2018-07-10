@@ -1,6 +1,6 @@
 {
-  "name": "SimpleJson",
-  "id": "grafana-simple-json-datasource",
+  "name": "TeldSimpleJson",
+  "id": "teld-simple-json-datasource",
   "type": "datasource",
 
   "partials": {
@@ -13,8 +13,8 @@
   "info": {
     "description": "simple json datasource",
     "author": {
-      "name": "Grafana Labs",
-      "url": "https://grafana.com"
+      "name": "Teld",
+      "url": "https://teld.cn"
     },
     "logos": {
       "small": "img/simpleJson_logo.svg",
